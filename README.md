@@ -1,0 +1,2 @@
+# Log_Analytics_WorkSpace
+Log_Analytics_WorkSpace
