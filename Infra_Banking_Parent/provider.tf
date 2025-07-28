@@ -1,6 +1,6 @@
 terraform {
    backend "azurerm" {
-    resource_group_name = "pipelinedata"
+    resource_group_name = "rg_pipeline"
     storage_account_name = "stgpipeline2025"
     container_name = "pipelinedata"
     key = "log.terraform.tstate"
